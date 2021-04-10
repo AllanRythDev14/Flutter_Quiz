@@ -1,0 +1,4 @@
+#Fri Apr 09 21:36:55 BRT 2021
+base.0=/home/jovani/Documentos/_Programacao/meusProjetos/MyQuizDefault/my_quiz/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
